@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PinePG_otp_function_note">ध्यान दें: ओटीपी को स्वचालित रूप से सबमिट किया जाएगा</string>
+    <string name="PinePG_otp_approve_comment" >कृपया ओटीपी दर्ज करें और स्वीकृत करें</string>
+    <string name="PinePG_otp_submission_error" >ओटीपी भरा नहीं  जा सका  है। कृपया पुन: प्रयास करें|</string>
+    <string name="PinePG_auto_otp_submission_message" >ध्यान दें: ओटीपी को स्वचालित रूप से सबमिट किया जाएगा</string>
+    <string name="PinePG_auto_otp_manual_submission_message" >कृपया ओटीपी दर्ज करें और स्वीकृत करें</string>
+    <string name="PinePG_net_banking_payment_approval_message" >"आगे बढ़े  "</string>
+    <string name="PinePG_auto_otp_reader_time_out" >ओटीपी नहीं आ पायी।</string>
+    <string name="PinePG_wrong_otp_entered" >गलत ओटीपी। कृपया पुन: प्रयास करें</string>
+    <string name="PinePG_otp_length_do_not_match" >कृपया सही ओटीपी दर्ज करें</string>
+    <string name="PinePG_opt_waiting_message" >ओटीपी का इंतजार है। कृपया प्रतीक्षा कीजिये %1$s</string>
+    <string name="PinePG_seconds" >%1$s सेकंड</string>
+    <string name="PinePG_button_manually_fill">अपने आप से भरें</string>
+    <string name="PinePG_button_restry_otp">" पुन: प्रयास करें"</string>
+    <string name="PinePG_otp_submission_limit_exeeded">बहुत सारे असफल प्रयास। कृपया बैंक पेज पर ओटीपी भरें</string>
+    <string name="PinePG_opt_approve_button_text">स्वीकृत करें</string>
+    <string name="PinePG_netbanking_next">सबमिट करें</string>
+    <string name="PinePG_netbanking_auto_mode_stop">रोकें</string>
+    <string name="PinePG_netbanking_auto_mode">" ऑटो मोड "</string>
+    <string name="PinePG_netbanking_auto_mode_message">" ऑटो मोड सक्रिय है"</string>
+    <string name="PinePG_netbanking_bootom_sheet_message">पहले नाम और पासवर्ड दर्ज करें और फिर फ़ॉर्म सबमिट करने के लिए ऑटो मोड का चयन करें</string>
+    <string name="PinePG_request_processing">" ट्रांजैक्शन शुरू हो चुका है"</string>
+    <string name="PinePG_pleasewait">कृपया प्रतीक्षा कीजिये</string>
+    <string name="PinePG_TimeoutMsg">समय समाप्त</string>
+    <string name="PinePG_back_press_dialog">क्या आप वाकई लेन-देन रद्द करना चाहते हैं</string>
+    <string name="PinePG_yes">हाँ</string>
+    <string name="PinePG_no">नहीं</string>
+    <string name="PinePG_No_Internet">कोई इंटरनेट कनेक्शन नहीं</string>
+    <string name="PinePG_RememberUserId">" यूजर आईडी याद रखें"</string>
+</resources>

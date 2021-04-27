@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PinePG_otp_function_note">Note: OTP will be auto submitted</string>
+    <string name="PinePG_otp_approve_comment">Note: Please enter OTP and approve</string>
+    <string name="PinePG_otp_submission_error">Otp cannot be submitted. Please try again</string>
+    <string name="PinePG_auto_otp_submission_message">Note: OTP will be auto submitted"</string>
+    <string name="PinePG_auto_otp_manual_submission_message">Please enter OTP and press submit</string>
+    <string name="PinePG_net_banking_payment_approval_message">Press approve to approve the payment</string>
+    <string name="PinePG_auto_otp_reader_time_out">OTP can not be detected</string>
+    <string name="PinePG_wrong_otp_entered">Wrong OTP. Please try again</string>
+    <string name="PinePG_otp_length_do_not_match">Please enter correct OTP</string>
+    <string name="PinePG_opt_waiting_message">Waiting for bank OTP %1$s</string>
+    <string name="PinePG_seconds">%1$s secs</string>
+    <string name="PinePG_button_manually_fill">Manually fill</string>
+    <string name="PinePG_button_restry_otp">Retry</string>
+    <string name="PinePG_otp_submission_limit_exeeded">Too many unsuccessful Attempts. Please fill the OTP on the bank page</string>
+    <string name="PinePG_opt_approve_button_text">APPROVE</string>
+    <string name="PinePG_netbanking_next">Submit</string>
+    <string name="PinePG_netbanking_auto_mode">Start auto mode</string>
+    <string name="PinePG_netbanking_auto_mode_message">Auto mode is active</string>
+    <string name="PinePG_netbanking_auto_mode_stop">Stop</string>
+    <string name="PinePG_netbanking_bootom_sheet_message">First enter username and password then select the auto mode functionality to submit the form</string>
+    <string name="PinePG_back_press_dialog">Are you sure you want to cancel transaction?</string>
+    <string name="PinePG_yes">Yes</string>
+    <string name="PinePG_no">No</string>
+    <string name="PinePG_No_Internet">No Internet Connection</string>
+    <string name="PinePG_Submit" translatable="false">SUBMIT</string>
+    <string name="PinePG_request_processing">Processing Request…</string>
+    <string name="PinePG_pleasewait">Please Wait</string>
+    <string name="PinePG_TimeoutMsg">Request Timeout</string>
+    <string name="PinePG_BackButtonPressed" translatable="false">Back Button Pressed</string>
+    <string name="PinePG_PineLabsMerchant" translatable="false">Pinelabs</string>
+    <string name="PinePG_RememberUserId" >Remember user id:</string>
+</resources>

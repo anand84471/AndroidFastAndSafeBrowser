@@ -1,0 +1,20 @@
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile
+-dontwarn okhttp3.internal.platform.*
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn javax.annotation.**
+-keepnames class okhttp3.internal.publicsuffix.PublicSuffixDatabase
+-dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
+-keep public class com.otpreader.BrowserCheckout  { *; }
+-keep public class com.otpreader.interfaces.IPinePGResponseCallback  { *; }
+-keep public class com.otpreader.Constants.MerchantConfigurationConstants  { *; }
+-keepclasseswithmembernames class com.otpreader.BrowserCheckout  { *; }
+-keepclasseswithmembernames class com.otpreader.Constants.MerchantConfigurationConstants  { *; }
+-keepclasseswithmembernames class com.otpreader.apiclient.HttpRequests.**  { *; }
+-keep public class com.otpreader.apiclient.HttpRequests.BrowserSessionDetailsHttpRequest  { *; }
+-keep public class com.otpreader.apiclient.HttpRequests.HttpRequestForReportJsError  { *; }
+-keep public class com.otpreader.apiclient.HttpRequests.ClientTypeHttpRequest  { *; }
+-keep public class com.otpreader.apiclient.HttpResponses.BankUrlDetailsHttpResponse  { *; }
+-keep public class com.otpreader.apiclient.HttpResponses.BankUrlDetailApiResponse  { *; }
+-keep public class com.otpreader.apiclient.HttpResponses.DefaultApiResponse  { *; }

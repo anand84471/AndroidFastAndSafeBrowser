@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <attr name="PinePG_otp_waiting_head_color" format="color" />
+        <attr name="PinePG_otp_waiting_footer_color" format="color" />
+        <attr name="PinePG_otp_submission_waiting_body_color" format="color" />
+        <attr name="PinePG_otp_submission_waiting_footer_color" format="color" />
+        <attr name="PinePG_otp_timeout_body_color" format="color" />
+        <attr name="PinePG_button_background_color" format="color" />
+        <attr name="PinePG_button_text_color" format="color" />
+        <attr name="PinePG_body_background_color" format="color" />
+        <attr name="PinePG_otp_success_color" format="color" />
+        <attr name="PinePG_otp_fail_color" format="color" />
+        <attr name="PinePG_arrow_color" format="color" />
+        <attr name="PinePG_progress_bar_style" format="color" />
+        <attr name="PinePG_bottom_sheet_header" format="color"/>
+        <attr name="PinePG_otp_box_background_color" format="color"/>
+        <attr name="PinePG_otp_box_text_color" format="color"/>
+        <attr name="PinePG_header_title" format="color"/>
+</resources>

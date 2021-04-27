@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.otpreader">
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:requestLegacyExternalStorage="true">
+        <activity android:name=".activity.PinePGBrowserActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            />
+        <receiver
+            android:name=".AutoOtpHandlers.PinePGOtpListenerFromSMS"
+            android:enabled="true"
+            android:permission="android.permission.BROADCAST_SMS"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+</application>
+</manifest>
